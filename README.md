@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolas Deronsart
 ==================================
 
-Data Scientist / AI Engineer
+Data Scientist / ML & AI Engineer
 ----------------------------
 
 I’m currently working at [HEPIA](https://www.hesge.ch/hepia/) in Geneva, where I focus on emotion recognition using physiological signals. I have developed a machine learning pipeline to preprocess physiological data, extract relevant features, and train models to predict emotional states. I also explored the latent space of EDA signals to investigate their correlation with emotional dimensions. 
