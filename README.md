@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolas Deronsart
 ==================================
 
-Data Scientist / ML & AI Engineer
+AI Engineer
 ----------------------------
 
 I’m currently working as an AI Engineer for Lucid Analytics.
